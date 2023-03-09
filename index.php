@@ -77,7 +77,7 @@ function bondTemplate(film){
 </script>
 </head>
 	<body>
-	<h1>Painting web serivce</h1>
+	<h1>Painting web serivce by Jorge Flores</h1>
 		<a href="year" class="category">Most Expensive Painting sold by Year</a><br />
 <!-- 		<a href="box" class="category">Bond Films By International Box Office Totals</a> -->
 		<h3 id="filmtitle">In this web service we can see the painting filterd by year, also you can see how expensive and what exact year they were sold! </h3>
