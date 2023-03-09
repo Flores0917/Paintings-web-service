@@ -1,15 +1,16 @@
 <html>
 <head>
-<title>Bond Web Service Demo</title>
+<title>Painting Web Serivce</title>
 <style>
 	body {font-family:georgia;}
-    .film{
-    border:1px solid #E77DC2;
+.film {
+    border: 1px solid #E77DC2;
     border-radius: 5px;
     padding: 5px;
-    margin-bottom:5px;
-    position:relative;   
-  }
+    margin-bottom: 5px;
+    position: relative;
+   min-height: 150px;
+}
 
 
   .pic{
@@ -76,10 +77,10 @@ function bondTemplate(film){
 </script>
 </head>
 	<body>
-	<h1>Bond Web Service</h1>
-		<a href="year" class="category">Bond Films By Year</a><br />
-		<a href="box" class="category">Bond Films By International Box Office Totals</a>
-		<h3 id="filmtitle">Title Will Go Here</h3>
+	<h1>Painting web serivce</h1>
+		<a href="year" class="category">Most Expensive Painting sold by Year</a><br />
+<!-- 		<a href="box" class="category">Bond Films By International Box Office Totals</a> -->
+		<h3 id="filmtitle">In this web service we can see the painting filterd by year, also you can see how expensive and what exact year they were sold! </h3>
 		<div id="films">
       <!--
 			<div class = "film">
@@ -97,6 +98,6 @@ function bondTemplate(film){
       </div>
       -->
 		</div>
-		<div id="output">Results go here</div>
+<!-- 		<div id="output">Results go here</div> -->
 	</body>
 </html>

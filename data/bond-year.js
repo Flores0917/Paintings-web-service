@@ -15,7 +15,7 @@
    "Cost": "$450.5 million",
    "Year": 2017,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "sal.jpg"
  },
  {
    "Title": "Number 17A",
@@ -23,7 +23,7 @@
    "Cost": "$200 million",
    "Year": 2016,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "17a.jpg"
  },
  {
    "Title": "Interchange",
@@ -31,7 +31,7 @@
    "Cost": "$300 million",
    "Year": 2015,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "interchange.jpg"
  },
  {
    "Title": "Nafea Faa Ipoipo",
@@ -39,7 +39,7 @@
    "Cost": "$210 million",
    "Year": 2015,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "nafea.jpg"
  },
  {
    "Title": "Portraits of Maerten Soolmans and Oopjen Coppit",
@@ -47,7 +47,7 @@
    "Cost": "$180 million",
    "Year": 2015,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "portraits.jpeg"
  },
  {
    "Title": "Les Femmes d’Alger (“Version O”)",
@@ -55,7 +55,7 @@
    "Cost": "$179.3 million",
    "Year": 2015,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "lesfemmes.jpg"
  },
  {
    "Title": "No. 6 (Violet, Green, and Red)",
@@ -63,7 +63,7 @@
    "Cost": "$186 million",
    "Year": 2014,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "no6.jpg"
  },
  {
    "Title": "Water Serpents II",
@@ -71,7 +71,7 @@
    "Cost": "$183.3 million",
    "Year": 2013,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "waterserpents.jpeg"
  },
  {
    "Title": "The Card Players",
@@ -79,7 +79,7 @@
    "Cost": "$250 million",
    "Year": 2011,
    "Note": "Note goes here",
-   "Image": "xxx"
+   "Image": "cardplayers.jpg"
  }
 ]
 }
